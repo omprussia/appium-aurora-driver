@@ -1,0 +1,6 @@
+{
+  "extends": "appium",
+  "rules": {
+    "require-await": 0
+  }
+}
