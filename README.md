@@ -20,6 +20,9 @@ Build Appium with new driver:
 ```
 
 ## Usage (python example)
+
+Install `Appium-Python-Client` python module to work with Appium
+
 ```
 from appium import webdriver
 
